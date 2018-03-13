@@ -1,0 +1,15 @@
+{
+  "name": "weather-app-with-axios",
+  "version": "1.0.0",
+  "description": "Simple Console Weather App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iskender Satybaldyev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^11.0.0"
+  }
+}
